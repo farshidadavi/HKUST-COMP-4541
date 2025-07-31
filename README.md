@@ -21,6 +21,7 @@ https://seng.hkust.edu.hk/sites/default/files/IMCE/UG/Course%20Syllabus/Spring_2
 8. [Lecture 8 - The RSA Cryptosystem](https://www.youtube.com/watch?v=1h7yex387pk&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=8)
 9. [Lecture 9 - RSA Digital Signatures](https://www.youtube.com/watch?v=Z7ugkxTmwdY&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=9)
 10. [Lecture 10 - Central Bank Digital Currency](https://www.youtube.com/watch?v=f8jSdyaC-M8&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=10)
+    -[HW1](https://github.com/farshidadavi/HKUST-COMP-4541/tree/306b28be9fc33a8a6fcf0c65c07e38afecd1a0f3/Homeworks/HW1)
 11. [Lecture 11 - Proof of Work](https://www.youtube.com/watch?v=IxEHvTpA7d8&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=11)
 12. [Lecture 12 - Bitcoin from the Viewpoint of Nodes and Miners](https://www.youtube.com/watch?v=AGDD0YzjSaY&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=12)
 13. [Lecture 13 - Creating Money, Forks and Double-spending](https://www.youtube.com/watch?v=-JFfdlqvcT0&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=13)
