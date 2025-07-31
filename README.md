@@ -43,5 +43,5 @@ https://seng.hkust.edu.hk/sites/default/files/IMCE/UG/Course%20Syllabus/Spring_2
     -[HW4](https://github.com/farshidadavi/HKUST-COMP-4541/tree/306b28be9fc33a8a6fcf0c65c07e38afecd1a0f3/Homeworks/HW4)
 27. [Lecture 27 - Proof of Stake](https://www.youtube.com/watch?v=bosDIYsJE-Y&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=27)
 28. [Lecture 28 - Lightning Network](https://www.youtube.com/watch?v=UC48aP9skJY&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=28)
-29. [Lecture 29 - Introduction to Zero-knowledge Proofs](https://www.youtube.com/watch?v=jqDnfFlrzHU&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=29)
+29. [Lecture 29 - Introduction to Zero-knowledge Proofs](https://www.youtube.com/watch?v=jqDnfFlrzHU&list=PLzZlJT-UOiwAtMlLPloOT0KH2hSoYGSLE&index=29)  
     -[Final_Project](https://github.com/farshidadavi/HKUST-COMP-4541/tree/306b28be9fc33a8a6fcf0c65c07e38afecd1a0f3/Homeworks/Final_Project)
